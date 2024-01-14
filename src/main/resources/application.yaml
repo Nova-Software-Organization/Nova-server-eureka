@@ -1,5 +1,6 @@
-application:
-  name: "server"
+spring:
+  application:
+    name: nova-server
 server:
   port: 8761
 eureka:
